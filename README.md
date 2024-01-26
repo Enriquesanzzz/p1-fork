@@ -7,10 +7,11 @@ El objetivo de esta práctica consiste en preparar el equipo del alumno para pod
 
 En nuestro perfil hay que crear el repositorio y un codespace para comenzar la práctica. 
 
-Creación del repositorio para la práctica:
+#### Creación del repositorio para la práctica:
 ![Creación del repositorio](https://github.com/Enriquesanzzz/p1-fork/blob/main/fotos/Repo%20p1%20creado.PNG)
+_______________________________________________________________________________________________________________________________________________
 
-Creación del codespace para ejecutar los comandos dentro del repo:
+#### Creación del codespace para ejecutar los comandos dentro del repo:
 ![Creación del codespace](https://github.com/Enriquesanzzz/p1-fork/blob/main/fotos/Create%20codespace%20on%20main.PNG)
 _______________________________________________________________________________________________________________________________________________
 

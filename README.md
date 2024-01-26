@@ -7,9 +7,12 @@ El objetivo de esta práctica consiste en preparar el equipo del alumno para pod
 
 En nuestro perfil hay que crear el repositorio y un codespace para comenzar la práctica. 
 
+Creación del repositorio para la práctica:
 ![Creación del repositorio](https://github.com/Enriquesanzzz/p1-fork/blob/main/fotos/Repo%20p1%20creado.PNG)
 
+Creación del codespace para ejecutar los comandos dentro del repo:
 ![Creación del codespace](https://github.com/Enriquesanzzz/p1-fork/blob/main/fotos/Create%20codespace%20on%20main.PNG)
+_______________________________________________________________________________________________________________________________________________
 
 Después, hacemos un fork del repositorio. Hacer un "fork" de un repositorio  permite crear una copia personal del proyecto en mi cuenta. Esto es útil para poder realizar cambios experimentales, corregir errores o colaborar de manera eficiente con otros desarrolladores (o más aplicado a nuestro caso, para que puedas corregir mi práctica). 
 

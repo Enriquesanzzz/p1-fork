@@ -25,7 +25,7 @@ Se puede encontrar la explicación sobre estos comandos en el archivo, al igual 
 
 ## Entorno de desarrollo en Java
 
-En cuanto a la instalación de los software de VSCode e IntelliJ, y de las versiones de Java 17 y Maven, se pueden encontrar en este repositorio en el archivo [entorno.pdf]([https://github.com/Enriquesanzzz/p1-fork/blob/main/git.pdf](https://github.com/Enriquesanzzz/p1-fork/blob/main/entorno.pdf)https://github.com/Enriquesanzzz/p1-fork/blob/main/entorno.pdf), en el que se comprueba su funcionamiento.
+En cuanto a la instalación de los software de VSCode e IntelliJ, y de las versiones de Java 17 y Maven, se pueden encontrar en este repositorio en el archivo [entorno.pdf]([https://github.com/Enriquesanzzz/p1-fork/blob/main/git.pdf), en el que se comprueba su funcionamiento.
 
 
 Muchas gracias por su atención,
